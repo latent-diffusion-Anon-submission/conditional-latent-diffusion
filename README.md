@@ -8,7 +8,7 @@ This repository contains the implementation of a class-conditional latent
 diffusion model for the generation of sparse three-channel detector jet
 images.
 
-The pipeline consists of:
+The pipeline (specifically LDM) consists of:
 
 1. A spatial variational autoencoder (VAE) that compresses
    64×64×3 detector images into a 4×16×16 latent representation.
