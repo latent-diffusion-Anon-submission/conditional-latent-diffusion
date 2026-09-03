@@ -36,8 +36,8 @@ conditional-latent-diffusion/
 │   └── readme.md
 │
 ├── LDM/
-│   ├── LDM_DIFFUSION_2.ipynb
-│   ├── LDM_DIFFUSION_CONFERENCE_S2S.ipynb
+│   ├── LDM_DIFFUSION_CONFERENCE_S2S.ipynb   # Final submission pipeline
+│   ├── LDM_DIFFUSION_2.ipynb                # Earlier development version
 │   └── readme.md
 │
 ├── VAE/
