@@ -37,6 +37,7 @@ conditional-latent-diffusion/
 │
 ├── LDM/
 │   ├── LDM_DIFFUSION_2.ipynb
+│   ├── LDM_DIFFUSION_CONFERENCE_S2S.ipynb
 │   └── readme.md
 │
 ├── VAE/
