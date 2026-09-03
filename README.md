@@ -2,7 +2,7 @@
 
 Anonymous implementation accompanying a double-blind workshop submission.
 
-🚧 Note: This repository is under active development and continuously updated.
+
 
 ## Overview
 
