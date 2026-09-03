@@ -4,10 +4,6 @@ Anonymous implementation accompanying a double-blind workshop submission.
 
 🚧 Note: This repository is under active development and continuously updated.
 
-# Class-Conditional Latent Diffusion for Sparse Detector Jet Image Generation
-
-Anonymous implementation accompanying a double-blind workshop submission.
-
 ## Overview
 
 This repository contains the implementation of a class-conditional latent
