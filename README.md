@@ -219,7 +219,7 @@ Start Jupyter Notebook with:
 jupyter notebook
 ```
 
-```markdown
+
 The integrated latent-diffusion workflow used for the results reported
 in the accompanying manuscript is located in:
 
