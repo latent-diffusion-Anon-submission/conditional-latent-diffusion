@@ -219,11 +219,12 @@ Start Jupyter Notebook with:
 jupyter notebook
 ```
 
-The integrated latent-diffusion workflow is located in:
+```markdown
+The integrated latent-diffusion workflow used for the results reported
+in the accompanying manuscript is located in:
 
 ```text
-LDM/LDM_DIFFUSION_2.ipynb
-```
+LDM/LDM_DIFFUSION_CONFERENCE_S2S.ipynb
 
 Run the notebook sequentially from top to bottom.
 
